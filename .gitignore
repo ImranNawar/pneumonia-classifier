@@ -1,0 +1,10 @@
+__pycache__
+data/
+steps.md
+training/training-draft.ipynb
+content/plots/subplot_confusion_matrices1.png
+
+model/custom_cnn.pth
+model/vgg16.pth
+model/vit_model.pth
+model/efficientnet-b0.pth
