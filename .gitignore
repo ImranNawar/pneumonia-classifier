@@ -8,3 +8,4 @@ model/custom_cnn.pth
 model/vgg16.pth
 model/vit_model.pth
 model/efficientnet-b0.pth
+model/resnet18.pth
